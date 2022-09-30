@@ -21,6 +21,7 @@
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
 - Add your code in the specific language folder in the repo.
 - Write a program to print your name in star pattern in any language of your choice.
+- The name of your file should be your name eg:- My name is Jatin Bisht so file name be jatinBisht.java.
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
 - Star this repository
