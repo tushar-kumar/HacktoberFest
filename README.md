@@ -24,7 +24,7 @@
 - The name of your file should be your name eg:- My name is Jatin Bisht so file name be jatinBisht.java.
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
-- Star this repository
+- Star this repository (very important for merging the pr)
 
 # How to make your first Pull Request
 
